@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('One') {
                 steps {
-                        echo 'Hi, this is Dr. Rao from India'
+                        echo 'Hi, this is Samrat from India'
 			
                 }
         }
@@ -25,7 +25,7 @@ pipeline {
         }
         stage('Four') {
                 steps {
-                        echo 'Hi, this is IBM'
+                        echo 'Hi, this is Oracle'
 			
                 }
         }
